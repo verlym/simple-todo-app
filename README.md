@@ -7,3 +7,7 @@ A simple todo app built with node and express.
 * [Nodemon](https://www.npmjs.com/package/nodemon) - a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 The following link for tutorial is [here]( https://medium.com/@atingenkay/creating-a-todo-app-with-node-js-express-8fa51f39b16f)
+
+### Future plans:
+* use mongodb for storing data
+* try to use third-party API
